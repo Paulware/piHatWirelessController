@@ -30,5 +30,12 @@ This cute little (1.44 in display) controller is available on ebay for $12: <a h
 <tr><td>ssh.sh</td><td>Setup the pi for ssh access</td></tr>
 <tr><td>timezone.sh</td><td>Set the pi's current timezone to match the user's locations</td></tr>
 </table>  
-
+<p>
+<h2>Description of examples</h2>
+<table border="2px">
+<tr><th>Name</th><th>Description</th></tr>
+<tr><td>b</td><td>A functioning watch, use top button to set hours, middle to set minutes, and bottom button to set seconds</td></tr>
+<tr><td>buttonLineDraw (main.py)</td><td>Draw lines and show images based on button presses (pong and tic-tac-toe static screens)</td></tr>
+<tr><td>displayButtons(main.py)</td><td>Show images on screen bassed on button presses</td></tr>
+</table> 
 email:paulware@hotmail.com  
