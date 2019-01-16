@@ -34,7 +34,7 @@ This cute little (1.44 in display) controller is available on ebay for $12: <a h
 <h2>Description of examples</h2>
 <table border="2px">
 <tr><th>Name</th><th>Description</th></tr>
-<tr><td>b</td><td>A functioning watch, use top button to set hours, middle to set minutes, and bottom button to set seconds</td></tr>
+<tr><td>watch</td><td>A functioning watch, use top button to set hours, middle to set minutes, and bottom button to set seconds</td></tr>
 <tr><td>buttonLineDraw (main.py)</td><td>Draw lines and show images based on button presses (pong and tic-tac-toe static screens)</td></tr>
 <tr><td>displayButtons(main.py)</td><td>Show images on screen bassed on button presses</td></tr>
 </table> 
